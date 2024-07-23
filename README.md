@@ -4,5 +4,7 @@
 
 Несколько моих проектов для ознакомления:
 
-1)  https://github.com/Mikhail6389/MIne/blob/main/A_B_calculation.ipynb
+1)  
+2)  [A/B тест с выгрузкой из API YDdisk](https://github.com/Mikhail6389/MIne/blob/main/A_B_calculation.ipynb)
+3)  
  
