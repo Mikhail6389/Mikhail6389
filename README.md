@@ -4,7 +4,6 @@
 
 Несколько моих проектов для ознакомления:
 
-1)  
-2)  [A/B тест с выгрузкой из API YDdisk](https://github.com/Mikhail6389/MIne/blob/main/A_B_calculation.ipynb)
-3)  
+1)  [A/B тест с выгрузкой из API YDdisk](https://github.com/Mikhail6389/MIne/blob/main/A_B_calculation.ipynb)
+2)  [Выгрузка из gs API формирование нового отчета](https://github.com/Mikhail6389/MIne/blob/main/from_gs_API%20(1).ipynb)
  
